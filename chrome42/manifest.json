@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "42 Addon",
+  "version": "0.1",
+
+	"content_scripts": [
+  		{
+  		  "matches": [
+  		    "https://profile.intra.42.fr/"
+  		  ],
+  		  "js": ["content.js"]
+  		}
+	]
+}
