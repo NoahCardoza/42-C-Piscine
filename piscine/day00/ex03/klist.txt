@@ -1,0 +1,5 @@
+Credentials cache: API:26805
+        Principal: nocardoz@42.US.ORG
+
+  Issued                Expires               Principal
+Aug  7 14:17:29 2017  Aug  8 00:17:29 2017  krbtgt/42.US.ORG@42.US.ORG
